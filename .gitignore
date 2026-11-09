@@ -1,0 +1,13 @@
+# Ignora la cache y los compilados de Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ignora archivos del sistema de macOS
+.DS_Store
+
+# Ignora la configuración local de VS Code
+.vscode/
+
+# Ignora los logs de ejecución
+*.log
