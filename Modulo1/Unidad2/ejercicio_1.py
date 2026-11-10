@@ -1,3 +1,11 @@
+"""
+Ejercicio 1 (Este es el ejercicio 2 de la unidad 1 pero implementando if/else
+Cree un programa que incorpore el módulo sys, al cual desde la terminal se le puedan
+pasar tres parámetros. El programa debe tomar los parámetros e indicar en la terminal si
+son multiplos de 2.
+Utilice la estructura if/else
+"""
+
 # IMPORTA EL MODULO SYS PARA ACCEDER A LOS PAREMETROS QUE SE PASAN DESDE LA TERMINAL
 import sys
 
